@@ -9,3 +9,19 @@
 4. Lakukan inisialisasi objek dari kelas DaftarNilaiMahasiswa dan panggil metode-metodenya untuk menambah dan menampilkan data nilai mahasiswa.
 
 5. Lalu buatlah daftar nilai mahasiswa dan menampilkan data nilai yang telah ditambahkan ke dalam objek dari kelas DaftarNilaiMahasiswa.
+
+# PRAKTIKUM 8
+
+![gambar](prak8.png)
+
+![gambar](prak8(2).png)
+
+![gambar](prak8(3).png)
+
+# FLOWCHART
+
+![gambar](FlowchartPrak8.png)
+
+# DIAGRAM CLASS
+
+![gambar](diagramclass.png)
